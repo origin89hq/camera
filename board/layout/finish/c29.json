@@ -1,0 +1,29 @@
+{
+ "components": [],
+ "tracks": [
+  {
+   "net": "GND",
+   "layer": "top",
+   "width": 0.2,
+   "points": [
+    {
+     "x": -0.02,
+     "y": -9.5
+    },
+    {
+     "x": 0.25,
+     "y": -9.5
+    }
+   ]
+  }
+ ],
+ "vias": [
+  {
+   "net": "GND",
+   "x": 0.25,
+   "y": -9.5,
+   "diameter": 0.3,
+   "drill": 0.15
+  }
+ ]
+}

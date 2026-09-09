@@ -1,0 +1,53 @@
+<svg font-family="IBM Plex Mono, Menlo, monospace" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 330" role="img" aria-label="Thirty seconds of the schedule: the camera wakes 200 ms every 10 s, a photo taken at 2 s is handed to the relay at its 10 s window and reaches the base at the relay's 20 s window; everything but the base sleeps between windows"><rect width="100%" height="100%" rx="10" fill="#0d1116"/>
+      <defs><marker id="ahs" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3fb47a"/></marker></defs>
+      <!-- time axis: t = 130 + s*24 -->
+      <line x1="130" y1="270" x2="880" y2="270" stroke="#232c36" stroke-width="1.5"/>
+      <g fill="#5c6873" font-size="10.5" text-anchor="middle">
+        <text x="130" y="288">0 s</text><text x="370" y="288">10 s</text><text x="610" y="288">20 s</text><text x="850" y="288">30 s</text>
+      </g>
+      <g stroke="#232c36" stroke-width="1" stroke-dasharray="2 4">
+        <line x1="370" y1="60" x2="370" y2="270"/><line x1="610" y1="60" x2="610" y2="270"/><line x1="850" y1="60" x2="850" y2="270"/>
+      </g>
+      <!-- rows -->
+      <g fill="#e8ecf1" font-size="12.5">
+        <text x="20" y="92">camera 09</text><text x="20" y="162">relay 08</text><text x="20" y="232">base</text>
+      </g>
+      <g fill="#5c6873" font-size="10">
+        <text x="20" y="106">battery</text><text x="20" y="176">solar</text><text x="20" y="246">bank</text>
+      </g>
+      <!-- sleep baselines -->
+      <line x1="130" y1="88" x2="880" y2="88" stroke="#232c36" stroke-width="2"/>
+      <line x1="130" y1="158" x2="880" y2="158" stroke="#232c36" stroke-width="2"/>
+      <!-- base always awake -->
+      <rect x="130" y="222" width="750" height="12" rx="2" fill="#1a3a2a" stroke="#3fb47a" stroke-width="1"/>
+      <text x="505" y="253" fill="#3fb47a" font-size="10.5" text-anchor="middle">always awake · keeps the clock · hands out the windows</text>
+      <!-- camera windows: 200 ms drawn wider than scale to be visible -->
+      <g fill="#3fb47a">
+        <rect x="366" y="80" width="8" height="16" rx="1"/><rect x="606" y="80" width="8" height="16" rx="1"/><rect x="846" y="80" width="8" height="16" rx="1"/>
+      </g>
+      <!-- relay windows: downstream then upstream, back to back -->
+      <g fill="#3fb47a">
+        <rect x="366" y="150" width="8" height="16" rx="1"/><rect x="376" y="150" width="8" height="16" rx="1" opacity=".55"/>
+        <rect x="606" y="150" width="8" height="16" rx="1"/><rect x="616" y="150" width="8" height="16" rx="1" opacity=".55"/>
+        <rect x="846" y="150" width="8" height="16" rx="1"/><rect x="856" y="150" width="8" height="16" rx="1" opacity=".55"/>
+      </g>
+      <text x="370" y="72" fill="#3fb47a" font-size="10" text-anchor="middle">200 ms</text>
+      <!-- the photo event at t = 2 s -->
+      <circle cx="178" cy="88" r="5" fill="#e9a13c"/>
+      <text x="178" y="72" fill="#e9a13c" font-size="10.5" text-anchor="middle">PIR · photo queued</text>
+      <path d="M184,88 L362,88" fill="none" stroke="#e9a13c" stroke-width="1.5" stroke-dasharray="3 3"/>
+      <text x="273" y="104" fill="#8a96a3" font-size="10" text-anchor="middle">waits for its window · radio off</text>
+      <!-- hop 1 -->
+      <path d="M370,96 L370,148" fill="none" stroke="#3fb47a" stroke-width="2" marker-end="url(#ahs)"/>
+      <text x="382" y="128" fill="#3fb47a" font-size="10.5">hop 1 · 300 KB · ~2 s</text>
+      <path d="M384,158 L602,158" fill="none" stroke="#e9a13c" stroke-width="1.5" stroke-dasharray="3 3"/>
+      <text x="493" y="174" fill="#8a96a3" font-size="10" text-anchor="middle">held on the relay · radio off</text>
+      <!-- hop 2 -->
+      <path d="M620,166 L620,220" fill="none" stroke="#3fb47a" stroke-width="2" marker-end="url(#ahs)"/>
+      <text x="632" y="198" fill="#3fb47a" font-size="10.5">hop 2 · on the disk</text>
+      <circle cx="620" cy="228" r="5" fill="#e9a13c"/>
+      <text x="700" y="212" fill="#e9a13c" font-size="10.5" text-anchor="middle">phone notified</text>
+      <!-- the claim -->
+      <rect x="130" y="302" width="750" height="1" fill="#232c36"/>
+      <text x="130" y="322" fill="#8a96a3" font-size="11">latency = hops × period = 2 × 10 s ≈ 20 s · radio energy ≈ 2 % of the time · clocks resync on every contact</text>
+    </svg>

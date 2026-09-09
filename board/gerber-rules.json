@@ -1,0 +1,28 @@
+{
+  "board": "camera",
+  "frame": "80 x 100 mm portrait, origin at the board centre (C-01)",
+  "mounting_holes": {
+    "rule": "C-02",
+    "drill": 3.2,
+    "keepout_radius": 3.5,
+    "centres": [[-36, 46], [36, 46], [36, -46], [-36, -46]]
+  },
+  "voids": [
+    {
+      "rule": "C-11",
+      "label": "ESP32-C6 module antenna void, x 33.9 to 40, y 14 to 29",
+      "rect": [33.9, 14, 40, 29],
+      "note": "The prohibited region drawn in EasyEDA starts at x 33.5, but C-11 permits the module's own copper and its pad row ends at x 33.82; the check starts where the footprint stops, since it cannot tell a pad from a pour."
+    }
+  ],
+  "copper_layers": [
+    ["L1 signal", "Gerber_TopLayer.GTL"],
+    ["L2 gnd", "Gerber_InnerLayer1.G1"],
+    ["L3 pwr", "Gerber_InnerLayer2.G2"],
+    ["L4 signal", "Gerber_BottomLayer.GBL"]
+  ],
+  "silk_layers": [
+    ["top silk", "Gerber_TopSilkscreenLayer.GTO"],
+    ["bottom silk", "Gerber_BottomSilkscreenLayer.GBO"]
+  ]
+}

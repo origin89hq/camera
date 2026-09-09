@@ -1,0 +1,9 @@
+*.pdf binary
+*.step binary
+*.dxf binary
+*.zip binary
+*.xlsx binary
+*.xls binary
+*.epro2 binary
+*.eprj2 binary
+*.step filter=lfs diff=lfs merge=lfs -text

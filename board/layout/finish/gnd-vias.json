@@ -1,0 +1,3611 @@
+{
+ "components": [],
+ "tracks": [],
+ "vias": [
+  {
+   "net": "GND",
+   "x": 18.72,
+   "y": -11.895,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -16.541,
+   "y": -23.079,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -19.609,
+   "y": 20.21,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -29.945,
+   "y": -25.444,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -27.558,
+   "y": -47.131,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -3.469,
+   "y": -8.127,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -11.814,
+   "y": 0.772,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 11.169,
+   "y": -0.165,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 8.266,
+   "y": -4.586,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 2.115,
+   "y": 4.583,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 7.596,
+   "y": 8.636,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -4.826,
+   "y": 12.138,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 12.157,
+   "y": -19.746,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -23.549,
+   "y": 4.945,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -8.636,
+   "y": -26.864,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 19.53,
+   "y": 5.268,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -24.063,
+   "y": 9.806,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 26.442,
+   "y": 18.523,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 8.484,
+   "y": 25.421,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -32.733,
+   "y": -10.543,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 17.272,
+   "y": -28.689,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 1.659,
+   "y": 30.766,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 18.646,
+   "y": 25.572,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -14.11,
+   "y": -35.373,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -38.45,
+   "y": 4.414,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -32.392,
+   "y": 22.455,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 34.056,
+   "y": -14.708,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 25.535,
+   "y": 29.084,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -24.607,
+   "y": 34.196,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -32.4,
+   "y": 35.735,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -38.4,
+   "y": 35.762,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -35.254,
+   "y": 24.401,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -35.254,
+   "y": 25.601,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -31.187,
+   "y": 25.424,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -30.693,
+   "y": 24.679,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -30.693,
+   "y": 23.179,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -31.893,
+   "y": 23.179,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -38.5,
+   "y": 48.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -35.5,
+   "y": 48.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -32.5,
+   "y": 48.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -29.5,
+   "y": 48.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -26.5,
+   "y": 48.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -23.5,
+   "y": 48.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -20.5,
+   "y": 48.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -17.5,
+   "y": 48.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -14.5,
+   "y": 48.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -11.5,
+   "y": 48.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -8.5,
+   "y": 48.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -5.5,
+   "y": 48.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -2.5,
+   "y": 48.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 0.5,
+   "y": 48.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 3.5,
+   "y": 48.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 6.5,
+   "y": 48.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 9.5,
+   "y": 48.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 12.5,
+   "y": 48.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 15.5,
+   "y": 48.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 18.5,
+   "y": 48.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 21.5,
+   "y": 48.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 24.5,
+   "y": 48.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 27.5,
+   "y": 48.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 30.5,
+   "y": 48.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 33.5,
+   "y": 48.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 36.5,
+   "y": 48.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 39.5,
+   "y": 48.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -38.5,
+   "y": 45.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -32.5,
+   "y": 45.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 33.5,
+   "y": 45.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 39.5,
+   "y": 45.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -38.5,
+   "y": 42.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -35.5,
+   "y": 42.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -32.5,
+   "y": 42.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -29.5,
+   "y": 42.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -26.5,
+   "y": 42.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -20.5,
+   "y": 42.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -17.5,
+   "y": 42.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -14.5,
+   "y": 42.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -11.5,
+   "y": 42.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -8.5,
+   "y": 42.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -5.5,
+   "y": 42.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -2.5,
+   "y": 42.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 0.5,
+   "y": 42.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 3.5,
+   "y": 42.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 6.5,
+   "y": 42.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 9.5,
+   "y": 42.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 12.5,
+   "y": 42.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 15.5,
+   "y": 42.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 18.5,
+   "y": 42.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 21.5,
+   "y": 42.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 24.5,
+   "y": 42.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 27.5,
+   "y": 42.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 30.5,
+   "y": 42.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 33.5,
+   "y": 42.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 36.5,
+   "y": 42.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 39.5,
+   "y": 42.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -35.5,
+   "y": 39.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -29.5,
+   "y": 39.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -26.5,
+   "y": 39.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -23.5,
+   "y": 39.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -17.5,
+   "y": 39.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -14.5,
+   "y": 39.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -11.5,
+   "y": 39.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -8.5,
+   "y": 39.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -5.5,
+   "y": 39.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -2.5,
+   "y": 39.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 0.5,
+   "y": 39.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 3.5,
+   "y": 39.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 6.5,
+   "y": 39.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 9.5,
+   "y": 39.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 12.5,
+   "y": 39.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 15.5,
+   "y": 39.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 18.5,
+   "y": 39.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 21.5,
+   "y": 39.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 24.5,
+   "y": 39.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 27.5,
+   "y": 39.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 30.5,
+   "y": 39.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 33.5,
+   "y": 39.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 36.5,
+   "y": 39.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 39.5,
+   "y": 39.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -38.5,
+   "y": 36.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -35.5,
+   "y": 36.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -32.5,
+   "y": 36.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -29.5,
+   "y": 36.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -26.5,
+   "y": 36.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -23.5,
+   "y": 36.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -20.5,
+   "y": 36.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -14.5,
+   "y": 36.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -11.5,
+   "y": 36.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -8.5,
+   "y": 36.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -5.5,
+   "y": 36.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -2.5,
+   "y": 36.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 0.5,
+   "y": 36.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 3.5,
+   "y": 36.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 6.5,
+   "y": 36.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 9.5,
+   "y": 36.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 12.5,
+   "y": 36.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 15.5,
+   "y": 36.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 18.5,
+   "y": 36.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 21.5,
+   "y": 36.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 24.5,
+   "y": 36.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 27.5,
+   "y": 36.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 30.5,
+   "y": 36.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 33.5,
+   "y": 36.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 36.5,
+   "y": 36.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 39.5,
+   "y": 36.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -35.5,
+   "y": 33.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -29.5,
+   "y": 33.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -23.5,
+   "y": 33.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -20.5,
+   "y": 33.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -17.5,
+   "y": 33.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -11.5,
+   "y": 33.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -8.5,
+   "y": 33.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -5.5,
+   "y": 33.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -2.5,
+   "y": 33.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 0.5,
+   "y": 33.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 3.5,
+   "y": 33.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 6.5,
+   "y": 33.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 9.5,
+   "y": 33.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 12.5,
+   "y": 33.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 15.5,
+   "y": 33.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 18.5,
+   "y": 33.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 27.5,
+   "y": 33.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 30.5,
+   "y": 33.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 33.5,
+   "y": 33.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 36.5,
+   "y": 33.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 39.5,
+   "y": 33.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -38.5,
+   "y": 30.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -35.5,
+   "y": 30.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -32.5,
+   "y": 30.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -29.5,
+   "y": 30.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -20.5,
+   "y": 30.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -17.5,
+   "y": 30.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -14.5,
+   "y": 30.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -8.5,
+   "y": 30.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -5.5,
+   "y": 30.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -2.5,
+   "y": 30.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 0.5,
+   "y": 30.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 3.5,
+   "y": 30.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 6.5,
+   "y": 30.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 9.5,
+   "y": 30.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 12.5,
+   "y": 30.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 15.5,
+   "y": 30.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 30.5,
+   "y": 30.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 33.5,
+   "y": 30.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 36.5,
+   "y": 30.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 39.5,
+   "y": 30.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -35.5,
+   "y": 27.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -29.5,
+   "y": 27.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -20.5,
+   "y": 27.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -17.5,
+   "y": 27.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -14.5,
+   "y": 27.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -11.5,
+   "y": 27.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -8.5,
+   "y": 27.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -5.5,
+   "y": 27.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -2.5,
+   "y": 27.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 0.5,
+   "y": 27.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 3.5,
+   "y": 27.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 6.5,
+   "y": 27.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 18.5,
+   "y": 27.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -29.5,
+   "y": 24.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -23.5,
+   "y": 24.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -20.5,
+   "y": 24.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -17.5,
+   "y": 24.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -14.5,
+   "y": 24.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -11.5,
+   "y": 24.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -8.5,
+   "y": 24.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -5.5,
+   "y": 24.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -2.5,
+   "y": 24.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 0.5,
+   "y": 24.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 3.5,
+   "y": 24.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 6.5,
+   "y": 24.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 9.5,
+   "y": 24.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 21.5,
+   "y": 24.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 27.5,
+   "y": 24.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -38.5,
+   "y": 21.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -35.5,
+   "y": 21.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -14.5,
+   "y": 21.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -11.5,
+   "y": 21.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -8.5,
+   "y": 21.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -5.5,
+   "y": 21.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -2.5,
+   "y": 21.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 0.5,
+   "y": 21.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 3.5,
+   "y": 21.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 6.5,
+   "y": 21.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 21.5,
+   "y": 21.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -38.5,
+   "y": 18.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -35.5,
+   "y": 18.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -29.5,
+   "y": 18.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -23.5,
+   "y": 18.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -14.5,
+   "y": 18.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -11.5,
+   "y": 18.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -8.5,
+   "y": 18.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -5.5,
+   "y": 18.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -2.5,
+   "y": 18.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 0.5,
+   "y": 18.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 3.5,
+   "y": 18.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 6.5,
+   "y": 18.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 9.5,
+   "y": 18.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 18.5,
+   "y": 18.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 21.5,
+   "y": 18.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 27.5,
+   "y": 18.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -35.5,
+   "y": 15.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -29.5,
+   "y": 15.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -11.5,
+   "y": 15.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 9.5,
+   "y": 15.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -23.5,
+   "y": 12.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -11.5,
+   "y": 12.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -8.5,
+   "y": 12.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 3.5,
+   "y": 12.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 6.5,
+   "y": 12.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 9.5,
+   "y": 12.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 30.5,
+   "y": 12.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 33.5,
+   "y": 12.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 36.5,
+   "y": 12.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 39.5,
+   "y": 12.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -23.5,
+   "y": 9.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 21.5,
+   "y": 9.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 24.5,
+   "y": 9.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 30.5,
+   "y": 9.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 33.5,
+   "y": 9.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 36.5,
+   "y": 9.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 39.5,
+   "y": 9.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -35.5,
+   "y": 6.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -32.5,
+   "y": 6.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -17.5,
+   "y": 6.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -14.5,
+   "y": 6.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -11.5,
+   "y": 6.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 18.5,
+   "y": 6.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 24.5,
+   "y": 6.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 30.5,
+   "y": 6.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 33.5,
+   "y": 6.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 36.5,
+   "y": 6.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 39.5,
+   "y": 6.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -38.5,
+   "y": 3.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -35.5,
+   "y": 3.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -29.5,
+   "y": 3.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -20.5,
+   "y": 3.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -17.5,
+   "y": 3.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -14.5,
+   "y": 3.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -2.5,
+   "y": 3.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 21.5,
+   "y": 3.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 24.5,
+   "y": 3.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 30.5,
+   "y": 3.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 33.5,
+   "y": 3.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 36.5,
+   "y": 3.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 39.5,
+   "y": 3.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -32.5,
+   "y": 0.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -29.5,
+   "y": 0.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -23.5,
+   "y": 0.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -17.5,
+   "y": 0.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -14.5,
+   "y": 0.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -5.5,
+   "y": 0.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 21.5,
+   "y": 0.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 24.5,
+   "y": 0.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 30.5,
+   "y": 0.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 33.5,
+   "y": 0.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 36.5,
+   "y": 0.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 39.5,
+   "y": 0.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -38.5,
+   "y": -2.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -35.5,
+   "y": -2.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -29.5,
+   "y": -2.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -23.5,
+   "y": -2.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -20.5,
+   "y": -2.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 27.5,
+   "y": -2.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 30.5,
+   "y": -2.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 33.5,
+   "y": -2.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 36.5,
+   "y": -2.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 39.5,
+   "y": -2.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -32.5,
+   "y": -5.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -26.5,
+   "y": -5.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -23.5,
+   "y": -5.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -20.5,
+   "y": -5.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -17.5,
+   "y": -5.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -14.5,
+   "y": -5.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -8.5,
+   "y": -5.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 39.5,
+   "y": -5.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -29.5,
+   "y": -8.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -26.5,
+   "y": -8.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -23.5,
+   "y": -8.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -20.5,
+   "y": -8.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -17.5,
+   "y": -8.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -14.5,
+   "y": -8.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -11.5,
+   "y": -8.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 39.5,
+   "y": -8.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -32.5,
+   "y": -11.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -29.5,
+   "y": -11.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -26.5,
+   "y": -11.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -23.5,
+   "y": -11.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -20.5,
+   "y": -11.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -17.5,
+   "y": -11.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -14.5,
+   "y": -11.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -11.5,
+   "y": -11.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -8.5,
+   "y": -11.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 39.5,
+   "y": -11.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -32.5,
+   "y": -14.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -29.5,
+   "y": -14.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -26.5,
+   "y": -14.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -23.5,
+   "y": -14.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -20.5,
+   "y": -14.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -17.5,
+   "y": -14.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -14.5,
+   "y": -14.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -11.5,
+   "y": -14.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -8.5,
+   "y": -14.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -5.5,
+   "y": -14.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 39.5,
+   "y": -14.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -38.5,
+   "y": -17.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -35.5,
+   "y": -17.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -20.5,
+   "y": -17.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -17.5,
+   "y": -17.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -14.5,
+   "y": -17.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -11.5,
+   "y": -17.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -8.5,
+   "y": -17.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 39.5,
+   "y": -17.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -38.5,
+   "y": -20.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -35.5,
+   "y": -20.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -29.5,
+   "y": -20.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -23.5,
+   "y": -20.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -17.5,
+   "y": -20.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 33.5,
+   "y": -20.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 39.5,
+   "y": -20.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -38.5,
+   "y": -23.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -35.5,
+   "y": -23.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -32.5,
+   "y": -23.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -23.5,
+   "y": -23.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -20.5,
+   "y": -23.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -17.5,
+   "y": -23.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 0.5,
+   "y": -23.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 9.5,
+   "y": -23.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 12.5,
+   "y": -23.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 15.5,
+   "y": -23.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 24.5,
+   "y": -23.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 39.5,
+   "y": -23.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -38.5,
+   "y": -26.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -35.5,
+   "y": -26.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -29.5,
+   "y": -26.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -26.5,
+   "y": -26.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -23.5,
+   "y": -26.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -5.5,
+   "y": -26.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 21.5,
+   "y": -26.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 24.5,
+   "y": -26.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 27.5,
+   "y": -26.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 30.5,
+   "y": -26.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 33.5,
+   "y": -26.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 36.5,
+   "y": -26.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 39.5,
+   "y": -26.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -38.5,
+   "y": -29.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -35.5,
+   "y": -29.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -32.5,
+   "y": -29.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -29.5,
+   "y": -29.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 21.5,
+   "y": -29.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 27.5,
+   "y": -29.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 30.5,
+   "y": -29.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 33.5,
+   "y": -29.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 36.5,
+   "y": -29.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 39.5,
+   "y": -29.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -38.5,
+   "y": -32.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -35.5,
+   "y": -32.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -32.5,
+   "y": -32.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -11.5,
+   "y": -32.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -8.5,
+   "y": -32.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -5.5,
+   "y": -32.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 0.5,
+   "y": -32.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 18.5,
+   "y": -32.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 24.5,
+   "y": -32.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 27.5,
+   "y": -32.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 30.5,
+   "y": -32.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 33.5,
+   "y": -32.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 36.5,
+   "y": -32.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 39.5,
+   "y": -32.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -38.5,
+   "y": -35.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -35.5,
+   "y": -35.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -32.5,
+   "y": -35.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -11.5,
+   "y": -35.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -8.5,
+   "y": -35.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -5.5,
+   "y": -35.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 0.5,
+   "y": -35.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 3.5,
+   "y": -35.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 24.5,
+   "y": -35.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 27.5,
+   "y": -35.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 30.5,
+   "y": -35.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 33.5,
+   "y": -35.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 36.5,
+   "y": -35.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 39.5,
+   "y": -35.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -38.5,
+   "y": -38.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -35.5,
+   "y": -38.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -32.5,
+   "y": -38.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -26.5,
+   "y": -38.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -20.5,
+   "y": -38.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -17.5,
+   "y": -38.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -14.5,
+   "y": -38.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -11.5,
+   "y": -38.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -5.5,
+   "y": -38.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 3.5,
+   "y": -38.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 6.5,
+   "y": -38.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 9.5,
+   "y": -38.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 12.5,
+   "y": -38.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 15.5,
+   "y": -38.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 18.5,
+   "y": -38.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 21.5,
+   "y": -38.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 24.5,
+   "y": -38.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 27.5,
+   "y": -38.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 30.5,
+   "y": -38.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 33.5,
+   "y": -38.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 36.5,
+   "y": -38.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 39.5,
+   "y": -38.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -38.5,
+   "y": -41.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -35.5,
+   "y": -41.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -32.5,
+   "y": -41.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -26.5,
+   "y": -41.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -23.5,
+   "y": -41.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -20.5,
+   "y": -41.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -17.5,
+   "y": -41.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -14.5,
+   "y": -41.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -11.5,
+   "y": -41.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -8.5,
+   "y": -41.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -5.5,
+   "y": -41.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 3.5,
+   "y": -41.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 6.5,
+   "y": -41.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 9.5,
+   "y": -41.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 12.5,
+   "y": -41.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 15.5,
+   "y": -41.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 18.5,
+   "y": -41.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 21.5,
+   "y": -41.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 24.5,
+   "y": -41.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 27.5,
+   "y": -41.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 30.5,
+   "y": -41.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 33.5,
+   "y": -41.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 36.5,
+   "y": -41.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 39.5,
+   "y": -41.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -38.5,
+   "y": -44.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -32.5,
+   "y": -44.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -29.5,
+   "y": -44.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -26.5,
+   "y": -44.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -23.5,
+   "y": -44.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -20.5,
+   "y": -44.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -17.5,
+   "y": -44.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -14.5,
+   "y": -44.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -8.5,
+   "y": -44.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 6.5,
+   "y": -44.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 9.5,
+   "y": -44.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 12.5,
+   "y": -44.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 15.5,
+   "y": -44.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 18.5,
+   "y": -44.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 21.5,
+   "y": -44.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 24.5,
+   "y": -44.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 27.5,
+   "y": -44.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 30.5,
+   "y": -44.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 33.5,
+   "y": -44.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 39.5,
+   "y": -44.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -38.5,
+   "y": -47.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -32.5,
+   "y": -47.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -29.5,
+   "y": -47.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -26.5,
+   "y": -47.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -23.5,
+   "y": -47.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -20.5,
+   "y": -47.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -17.5,
+   "y": -47.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -14.5,
+   "y": -47.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -11.5,
+   "y": -47.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -8.5,
+   "y": -47.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -5.5,
+   "y": -47.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": -2.5,
+   "y": -47.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 0.5,
+   "y": -47.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 3.5,
+   "y": -47.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 6.5,
+   "y": -47.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 9.5,
+   "y": -47.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 12.5,
+   "y": -47.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 24.5,
+   "y": -47.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 30.5,
+   "y": -47.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 33.5,
+   "y": -47.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 39.5,
+   "y": -47.5,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 5.6,
+   "y": -0.25,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 6.25,
+   "y": 1.75,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 3.4,
+   "y": 4.3,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 4.15,
+   "y": 8.0,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 4.35,
+   "y": 3.4,
+   "diameter": 0.6,
+   "drill": 0.3
+  },
+  {
+   "net": "GND",
+   "x": 5.95,
+   "y": 7.1,
+   "diameter": 0.6,
+   "drill": 0.3
+  }
+ ]
+}
